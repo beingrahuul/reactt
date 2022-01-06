@@ -12,4 +12,5 @@ export default function EventList({ events, handleClick }) {
         </div>
     )
 }
-  
+
+console.log('rahul')
